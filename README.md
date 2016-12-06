@@ -1,0 +1,3 @@
+# pointers
+
+Gabungan dari goexample
